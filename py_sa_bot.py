@@ -40,7 +40,7 @@ def vote():
             driver.execute_script("document.querySelector('[data-id=\"question/83\"]').click();")
 
             try:
-                radio = WebDriverWait(driver, 30).until(
+                radio = WebDriverWait(driver, 60).until(
                     EC.presence_of_element_located((By.ID, "r443"))
                 )
                 print("Znalazłem RADIO")
@@ -59,7 +59,7 @@ def vote():
         print("--> nie znalazłem PUBLICZNE")
 
     try:
-        WebDriverWait(driver, 30).until(
+        WebDriverWait(driver, 60).until(
             EC.presence_of_element_located((By.XPATH, "//p[contains(text(), 'Dziękujemy za oddanie głosu')]"))
         )
         logger.make_log_file(True)
