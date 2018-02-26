@@ -1,0 +1,208 @@
+Feb 26 17:59:00.190 <write:907> Checking internet connection. 
+Feb 26 17:59:02.630 <write:907> ------------------------------------------------------------
+Feb 26 17:59:02.631 <write:907> Checking files. 
+Feb 26 17:59:03.749 <write:907> No missing files
+Feb 26 17:59:03.751 <write:907> ------------------------------------------------------------
+Feb 26 17:59:04.786 <write:907> TOR server starting. Please wait ... 
+Feb 26 17:59:05.790 <write:907> 0%: Starting 
+Feb 26 17:59:06.808 <write:907> 80%: Connecting to the Tor network 
+Feb 26 17:59:12.599 <write:907> 100%: Done 
+Feb 26 17:59:12.601 <write:907> TOR server started 
+Feb 26 17:59:12.603 <write:907> DNS server started 
+Feb 26 17:59:14.557 <write:907> IP Changer started.
+Feb 26 17:59:14.558 <appInfo:538> IPchanged=0
+Feb 26 17:59:14.559 <appInfo:539> IPfetched=0
+Feb 26 17:59:14.559 <appInfo:540> IPchangeFailed=0
+Feb 26 17:59:14.559 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 17:59:14.559 <appInfo:543> AppRunning=14.522260363443646 sec
+Feb 26 17:59:14.559 <write:907> Fetching IP started.
+Feb 26 17:59:14.561 <write:907> -------------------------CHANGING-IP------------------------
+Feb 26 17:59:14.586 <newIP:1159> Killing previous circuit ID 1 
+Feb 26 17:59:14.587 <newIP:1159> Killing previous circuit ID 02 
+Feb 26 17:59:14.588 <newIP:1159> Killing previous circuit ID 3 
+Feb 26 17:59:14.588 <newIP:1159> Killing previous circuit ID 4 
+Feb 26 17:59:14.589 <newIP:1159> Killing previous circuit ID 5 
+Feb 26 17:59:14.591 <newIP:1159> Killing previous circuit ID 6 
+Feb 26 17:59:14.591 <newIP:1159> Killing previous circuit ID 7 
+Feb 26 17:59:14.591 <newIP:1159> Killing previous circuit ID 8 
+Feb 26 17:59:14.594 <newIP:1183> Requesting new IP 127.0.0.1:9050 OK
+Feb 26 17:59:23.583 <fetching:1016> 127.0.0.1:9050 failed
+Feb 26 17:59:24.561 <appInfo:538> IPchanged=1
+Feb 26 17:59:24.561 <appInfo:539> IPfetched=0
+Feb 26 17:59:24.561 <appInfo:540> IPchangeFailed=0
+Feb 26 17:59:24.561 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 17:59:24.562 <appInfo:543> AppRunning=24.52404809712731 sec
+Feb 26 17:59:24.571 <write:907> -------------------------CHANGING-IP------------------------
+Feb 26 17:59:24.577 <newIP:1159> Killing previous circuit ID 11 
+Feb 26 17:59:24.578 <newIP:1159> Killing previous circuit ID 14 
+Feb 26 17:59:24.579 <newIP:1159> Killing previous circuit ID 10 
+Feb 26 17:59:24.580 <newIP:1159> Killing previous circuit ID 9 
+Feb 26 17:59:24.581 <newIP:1159> Killing previous circuit ID 12 
+Feb 26 17:59:24.581 <newIP:1159> Killing previous circuit ID 13 
+Feb 26 17:59:24.585 <newIP:1183> Requesting new IP 127.0.0.1:9050 OK
+Feb 26 17:59:33.670 <fetching:1016> 127.0.0.1:9050 failed
+Feb 26 17:59:34.562 <appInfo:538> IPchanged=2
+Feb 26 17:59:34.562 <appInfo:539> IPfetched=0
+Feb 26 17:59:34.562 <appInfo:540> IPchangeFailed=0
+Feb 26 17:59:34.562 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 17:59:34.563 <appInfo:543> AppRunning=34.52547427193706 sec
+Feb 26 17:59:34.579 <write:907> -------------------------CHANGING-IP------------------------
+Feb 26 17:59:34.588 <newIP:1159> Killing previous circuit ID 16 
+Feb 26 17:59:34.588 <newIP:1159> Killing previous circuit ID 15 
+Feb 26 17:59:34.589 <newIP:1159> Killing previous circuit ID 17 
+Feb 26 17:59:34.589 <newIP:1159> Killing previous circuit ID 18 
+Feb 26 17:59:34.590 <newIP:1159> Killing previous circuit ID 19 
+Feb 26 17:59:34.594 <newIP:1183> Requesting new IP 127.0.0.1:9050 OK
+Feb 26 17:59:39.221 <write:907> IP Changer stopping. Wait..
+Feb 26 17:59:39.222 <write:907> Fetching IP stopping. Wait..
+Feb 26 17:59:39.585 <write:907> IP Changer stopped.
+Feb 26 17:59:40.252 <write:907> Fetching IP stopped.
+Feb 26 17:59:43.678 <fetching:1016> 127.0.0.1:9050 failed
+Feb 26 17:59:53.061 <write:907> IP Changer started.
+Feb 26 17:59:53.063 <appInfo:538> IPchanged=0
+Feb 26 17:59:53.064 <appInfo:539> IPfetched=0
+Feb 26 17:59:53.064 <appInfo:540> IPchangeFailed=0
+Feb 26 17:59:53.064 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 17:59:53.064 <appInfo:543> AppRunning=53.027169633160035 sec
+Feb 26 17:59:53.065 <write:907> Fetching IP started.
+Feb 26 17:59:53.066 <write:907> -------------------------CHANGING-IP------------------------
+Feb 26 17:59:53.077 <newIP:1159> Killing previous circuit ID 21 
+Feb 26 17:59:53.078 <newIP:1159> Killing previous circuit ID 20 
+Feb 26 17:59:53.079 <newIP:1159> Killing previous circuit ID 22 
+Feb 26 17:59:53.079 <newIP:1159> Killing previous circuit ID 23 
+Feb 26 17:59:53.080 <newIP:1159> Killing previous circuit ID 24 
+Feb 26 17:59:53.080 <newIP:1159> Killing previous circuit ID 25 
+Feb 26 17:59:53.084 <newIP:1183> Requesting new IP 127.0.0.1:9050 OK
+Feb 26 17:59:55.761 <fetching:1016> 127.0.0.1:9050 failed
+Feb 26 18:00:03.066 <appInfo:538> IPchanged=1
+Feb 26 18:00:03.066 <appInfo:539> IPfetched=0
+Feb 26 18:00:03.066 <appInfo:540> IPchangeFailed=0
+Feb 26 18:00:03.066 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:00:03.067 <appInfo:543> AppRunning=63.02890324964451 sec
+Feb 26 18:00:13.067 <appInfo:538> IPchanged=1
+Feb 26 18:00:13.067 <appInfo:539> IPfetched=0
+Feb 26 18:00:13.067 <appInfo:540> IPchangeFailed=0
+Feb 26 18:00:13.067 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:00:13.068 <appInfo:543> AppRunning=73.03035415041596 sec
+Feb 26 18:00:23.069 <appInfo:538> IPchanged=1
+Feb 26 18:00:23.069 <appInfo:539> IPfetched=0
+Feb 26 18:00:23.069 <appInfo:540> IPchangeFailed=0
+Feb 26 18:00:23.069 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:00:23.070 <appInfo:543> AppRunning=83.03188995920682 sec
+Feb 26 18:00:23.097 <write:907> -------------------------CHANGING-IP------------------------
+Feb 26 18:00:23.105 <newIP:1159> Killing previous circuit ID 27 
+Feb 26 18:00:23.106 <newIP:1159> Killing previous circuit ID 26 
+Feb 26 18:00:23.106 <newIP:1159> Killing previous circuit ID 29 
+Feb 26 18:00:23.107 <newIP:1159> Killing previous circuit ID 30 
+Feb 26 18:00:23.107 <newIP:1159> Killing previous circuit ID 32 
+Feb 26 18:00:23.108 <newIP:1159> Killing previous circuit ID 33 
+Feb 26 18:00:23.108 <newIP:1159> Killing previous circuit ID 34 
+Feb 26 18:00:23.112 <newIP:1183> Requesting new IP 127.0.0.1:9050 OK
+Feb 26 18:00:33.071 <appInfo:538> IPchanged=2
+Feb 26 18:00:33.071 <appInfo:539> IPfetched=0
+Feb 26 18:00:33.071 <appInfo:540> IPchangeFailed=0
+Feb 26 18:00:33.072 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:00:33.072 <appInfo:543> AppRunning=93.03335998760903 sec
+Feb 26 18:00:43.072 <appInfo:538> IPchanged=2
+Feb 26 18:00:43.072 <appInfo:539> IPfetched=0
+Feb 26 18:00:43.072 <appInfo:540> IPchangeFailed=0
+Feb 26 18:00:43.072 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:00:43.073 <appInfo:543> AppRunning=103.0348104218529 sec
+Feb 26 18:00:52.191 <fetching:1016> 127.0.0.1:9050 failed
+Feb 26 18:00:53.074 <appInfo:538> IPchanged=2
+Feb 26 18:00:53.074 <appInfo:539> IPfetched=0
+Feb 26 18:00:53.074 <appInfo:540> IPchangeFailed=0
+Feb 26 18:00:53.074 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:00:53.075 <appInfo:543> AppRunning=113.03623706319023 sec
+Feb 26 18:00:53.127 <write:907> -------------------------CHANGING-IP------------------------
+Feb 26 18:00:53.136 <newIP:1159> Killing previous circuit ID 36 
+Feb 26 18:00:53.137 <newIP:1159> Killing previous circuit ID 35 
+Feb 26 18:00:53.137 <newIP:1159> Killing previous circuit ID 37 
+Feb 26 18:00:53.138 <newIP:1159> Killing previous circuit ID 38 
+Feb 26 18:00:53.139 <newIP:1159> Killing previous circuit ID 39 
+Feb 26 18:00:53.139 <newIP:1159> Killing previous circuit ID 40 
+Feb 26 18:00:53.140 <newIP:1159> Killing previous circuit ID 41 
+Feb 26 18:00:53.141 <newIP:1159> Killing previous circuit ID 42 
+Feb 26 18:00:53.144 <newIP:1183> Requesting new IP 127.0.0.1:9050 OK
+Feb 26 18:01:03.075 <appInfo:538> IPchanged=3
+Feb 26 18:01:03.075 <appInfo:539> IPfetched=0
+Feb 26 18:01:03.075 <appInfo:540> IPchangeFailed=0
+Feb 26 18:01:03.075 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:01:03.076 <appInfo:543> AppRunning=123.03764317731407 sec
+Feb 26 18:01:13.077 <appInfo:538> IPchanged=3
+Feb 26 18:01:13.077 <appInfo:539> IPfetched=0
+Feb 26 18:01:13.077 <appInfo:540> IPchangeFailed=0
+Feb 26 18:01:13.078 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:01:13.078 <appInfo:543> AppRunning=133.03926855940014 sec
+Feb 26 18:01:22.176 <fetching:1016> 127.0.0.1:9050 failed
+Feb 26 18:01:23.078 <appInfo:538> IPchanged=3
+Feb 26 18:01:23.078 <appInfo:539> IPfetched=0
+Feb 26 18:01:23.078 <appInfo:540> IPchangeFailed=0
+Feb 26 18:01:23.078 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:01:23.078 <appInfo:543> AppRunning=143.04046846833398 sec
+Feb 26 18:01:23.152 <write:907> -------------------------CHANGING-IP------------------------
+Feb 26 18:01:23.159 <newIP:1159> Killing previous circuit ID 44 
+Feb 26 18:01:23.160 <newIP:1159> Killing previous circuit ID 48 
+Feb 26 18:01:23.160 <newIP:1159> Killing previous circuit ID 45 
+Feb 26 18:01:23.161 <newIP:1159> Killing previous circuit ID 46 
+Feb 26 18:01:23.162 <newIP:1159> Killing previous circuit ID 47 
+Feb 26 18:01:23.162 <newIP:1159> Killing previous circuit ID 49 
+Feb 26 18:01:23.165 <newIP:1183> Requesting new IP 127.0.0.1:9050 OK
+Feb 26 18:01:33.080 <appInfo:538> IPchanged=4
+Feb 26 18:01:33.080 <appInfo:539> IPfetched=0
+Feb 26 18:01:33.080 <appInfo:540> IPchangeFailed=0
+Feb 26 18:01:33.080 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:01:33.081 <appInfo:543> AppRunning=153.04217689232917 sec
+Feb 26 18:01:43.082 <appInfo:538> IPchanged=4
+Feb 26 18:01:43.082 <appInfo:539> IPfetched=0
+Feb 26 18:01:43.082 <appInfo:540> IPchangeFailed=0
+Feb 26 18:01:43.083 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:01:43.083 <appInfo:543> AppRunning=163.04369170737897 sec
+Feb 26 18:01:52.179 <fetching:1016> 127.0.0.1:9050 failed
+Feb 26 18:01:53.083 <appInfo:538> IPchanged=4
+Feb 26 18:01:53.083 <appInfo:539> IPfetched=0
+Feb 26 18:01:53.083 <appInfo:540> IPchangeFailed=0
+Feb 26 18:01:53.083 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:01:53.084 <appInfo:543> AppRunning=173.04497372516673 sec
+Feb 26 18:01:53.179 <write:907> -------------------------CHANGING-IP------------------------
+Feb 26 18:01:53.187 <newIP:1159> Killing previous circuit ID 56 
+Feb 26 18:01:53.187 <newIP:1159> Killing previous circuit ID 57 
+Feb 26 18:01:53.188 <newIP:1159> Killing previous circuit ID 52 
+Feb 26 18:01:53.188 <newIP:1159> Killing previous circuit ID 53 
+Feb 26 18:01:53.189 <newIP:1159> Killing previous circuit ID 54 
+Feb 26 18:01:53.189 <newIP:1159> Killing previous circuit ID 55 
+Feb 26 18:01:53.193 <newIP:1183> Requesting new IP 127.0.0.1:9050 OK
+Feb 26 18:02:03.085 <appInfo:538> IPchanged=5
+Feb 26 18:02:03.085 <appInfo:539> IPfetched=0
+Feb 26 18:02:03.085 <appInfo:540> IPchangeFailed=0
+Feb 26 18:02:03.085 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:02:03.086 <appInfo:543> AppRunning=183.04649087285443 sec
+Feb 26 18:02:13.086 <appInfo:538> IPchanged=5
+Feb 26 18:02:13.086 <appInfo:539> IPfetched=0
+Feb 26 18:02:13.086 <appInfo:540> IPchangeFailed=0
+Feb 26 18:02:13.086 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:02:13.087 <appInfo:543> AppRunning=193.04789465434038 sec
+Feb 26 18:02:22.298 <fetching:1016> 127.0.0.1:9050 failed
+Feb 26 18:02:23.088 <appInfo:538> IPchanged=5
+Feb 26 18:02:23.088 <appInfo:539> IPfetched=0
+Feb 26 18:02:23.088 <appInfo:540> IPchangeFailed=0
+Feb 26 18:02:23.088 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:02:23.089 <appInfo:543> AppRunning=203.04938614301122 sec
+Feb 26 18:02:23.207 <write:907> -------------------------CHANGING-IP------------------------
+Feb 26 18:02:23.215 <newIP:1159> Killing previous circuit ID 59 
+Feb 26 18:02:23.215 <newIP:1159> Killing previous circuit ID 65 
+Feb 26 18:02:23.216 <newIP:1159> Killing previous circuit ID 60 
+Feb 26 18:02:23.216 <newIP:1159> Killing previous circuit ID 61 
+Feb 26 18:02:23.217 <newIP:1159> Killing previous circuit ID 62 
+Feb 26 18:02:23.220 <newIP:1183> Requesting new IP 127.0.0.1:9050 OK
+Feb 26 18:02:25.052 <fetching:1016> 127.0.0.1:9050 failed
+Feb 26 18:02:33.089 <appInfo:538> IPchanged=6
+Feb 26 18:02:33.089 <appInfo:539> IPfetched=0
+Feb 26 18:02:33.089 <appInfo:540> IPchangeFailed=0
+Feb 26 18:02:33.089 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:02:33.090 <appInfo:543> AppRunning=213.0509378137398 sec
+Feb 26 18:02:43.091 <appInfo:538> IPchanged=6
+Feb 26 18:02:43.091 <appInfo:539> IPfetched=0
+Feb 26 18:02:43.091 <appInfo:540> IPchangeFailed=0
+Feb 26 18:02:43.091 <appInfo:541> IPchangeMaxFailedBeforeExit=3
+Feb 26 18:02:43.092 <appInfo:543> AppRunning=223.05230847176762 sec
