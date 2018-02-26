@@ -1,0 +1,20 @@
+--- Logging error ---
+Traceback (most recent call last):
+  File "C:\Python34\lib\logging\__init__.py", line 980, in emit
+UnicodeEncodeError: 'ascii' codec can't encode character '\xae' in position 1021: ordinal not in range(128)
+Call stack:
+  File "ipchanger.py", line 7, in <module>
+  File "C:\Python34\lib\tkinter\__init__.py", line 1120, in mainloop
+  File "C:\Python34\lib\tkinter\__init__.py", line 1533, in __call__
+  File "D:\Instalacky\scripty\tor-ip-changer2\win\src\1.2.0\start.pyw", line 498, in changelog
+  File "D:\Instalacky\scripty\tor-ip-changer2\win\src\1.2.0\start.pyw", line 907, in write
+  File "C:\Python34\lib\logging\__init__.py", line 1834, in info
+  File "C:\Python34\lib\logging\__init__.py", line 1274, in info
+  File "C:\Python34\lib\logging\__init__.py", line 1409, in _log
+  File "C:\Python34\lib\logging\__init__.py", line 1419, in handle
+  File "C:\Python34\lib\logging\__init__.py", line 1481, in callHandlers
+  File "C:\Python34\lib\logging\__init__.py", line 853, in handle
+  File "C:\Python34\lib\logging\__init__.py", line 1041, in emit
+  File "C:\Python34\lib\logging\__init__.py", line 984, in emit
+Message: '************************************************************\nChangelog: v1.2.0\n************************************************************\nAdded:   \n   Progress bar indicator\n   Better anonymity \n   Country selection\n   Autochange after program start\n   TOR DNS server @ 127.0.0.1:53 \n   .onion domains, need TOR DNS or DNS requests via socks5\n   Multiproxy\n************************************************************\nFixed:\n   Socket unexpected timeout\n   TOR switcher crashed after while\n   Access Violation c0000005\n************************************************************\nChanged: \n   User interface\n   Better logging\n   Start TOR timeout to 120 seconds\n   Close old TOR circuits before new IP\n************************************************************\nRemoved: \n   Configure browser button (too much bugy)\n************************************************************\nThanks:\n   new sponsor Altnet s.r.o. ISP provider in Czech republic\n   Skvely.net®, banner will be visible until 01/11/2019\n************************************************************'
+Arguments: ()

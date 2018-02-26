@@ -1,0 +1,263 @@
+Feb 23 18:33:24.813 [notice] Tor 0.3.1.7 (git-6babd3d9ba9318b3) running on Windows 7 with Libevent 2.0.22-stable, OpenSSL 1.0.2k, Zlib 1.2.8, Liblzma N/A, and Libzstd N/A.
+Feb 23 18:33:24.814 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Feb 23 18:33:24.829 [notice] Configuration file "C:\Users\massivedesign\AppData\Roaming\tor\torrc" not present, using reasonable defaults.
+Feb 23 18:33:24.833 [warn] You specified a public address '0.0.0.0:9050' for SocksPort. Other people on the Internet might find your computer and use it as an open proxy. Please don't allow this unless you have a good reason.
+Feb 23 18:33:24.833 [warn] Path for GeoIPFile (Tor/geoip) is relative and will resolve to C:\Users\massivedesign\CloudStation\PyArchArtBot\ipchanger\Tor\geoip. Is this what you wanted?
+Feb 23 18:33:24.833 [warn] Path for GeoIPv6File (Tor/geoip6) is relative and will resolve to C:\Users\massivedesign\CloudStation\PyArchArtBot\ipchanger\Tor\geoip6. Is this what you wanted?
+Feb 23 18:33:24.833 [warn] Path for DataDirectory (Data/tordata0) is relative and will resolve to C:\Users\massivedesign\CloudStation\PyArchArtBot\ipchanger\Data\tordata0. Is this what you wanted?
+Feb 23 18:33:24.833 [notice] Wow!  I detected that you have 32 CPUs. I will not autodetect any more than 16, though.  If you want to configure more, set NumCPUs in your torrc
+Feb 23 18:33:24.835 [warn] You specified a public address '0.0.0.0:9050' for SocksPort. Other people on the Internet might find your computer and use it as an open proxy. Please don't allow this unless you have a good reason.
+Feb 23 18:33:24.835 [notice] Opening Socks listener on 0.0.0.0:9050
+Feb 23 18:33:24.835 [notice] Opening DNS listener on 127.0.0.1:53
+Feb 23 18:33:24.835 [notice] Opening Control listener on 127.0.0.1:15000
+Feb 23 18:33:24.000 [notice] Parsing GEOIP IPv4 file Tor/geoip.
+Feb 23 18:33:25.000 [notice] Parsing GEOIP IPv6 file Tor/geoip6.
+Feb 23 18:33:25.000 [notice] Bootstrapped 0%: Starting
+Feb 23 18:33:26.000 [notice] Starting with guard context "default"
+Feb 23 18:33:26.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Feb 23 18:33:30.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Feb 23 18:33:30.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Feb 23 18:33:33.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Feb 23 18:33:33.000 [notice] Bootstrapped 100%: Done
+Feb 23 18:33:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:34:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:35:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:36:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $70875BB9B4CDAB5C48333E0D683C6ACA1F936B4D~Zomp at 82.148.223.103. Retrying on a new circuit.
+Feb 23 18:36:31.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $7E208E3C8B0F6C7C444356E87FA4510E80695D2C~jtorexit8011 at 5.2.76.139. Retrying on a new circuit.
+Feb 23 18:36:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:37:18.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $BC630CBBB518BE7E9F4E09712AB0269E9DC7D626~IPredator at 197.231.221.211. Retrying on a new circuit.
+Feb 23 18:37:34.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $311A4533F7A2415F42346A6C8FA77E6FD279594C~DigiGesTor3e2 at 178.209.42.84. Retrying on a new circuit.
+Feb 23 18:37:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:38:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:39:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $A10C4F666D27364036B562823E5830BC448E046A~DFRI1 at 171.25.193.77. Retrying on a new circuit.
+Feb 23 18:39:33.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $2EB20285FE55927B7AECC47BB94F22534FBC3941~yawnbox at 23.129.64.101. Retrying on a new circuit.
+Feb 23 18:39:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:40:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $379FB450010D17078B3766C2273303C358C3A442~aurora at 176.126.252.12. Retrying on a new circuit.
+Feb 23 18:40:32.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $1AF72E8906E6C49481A791A6F8F84F8DFEBBB2BA~zwiebeltoralf at 5.9.158.75. Retrying on a new circuit.
+Feb 23 18:40:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:41:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $0CDA30CDDB526B753E4BA70938703BEF6CB4B8E1~matress at 94.16.123.176. Retrying on a new circuit.
+Feb 23 18:41:33.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $DAB96CEA61CC039A803217035293FAB32645FDDA~kree at 85.248.227.165. Retrying on a new circuit.
+Feb 23 18:41:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:42:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $311A4533F7A2415F42346A6C8FA77E6FD279594C~DigiGesTor3e2 at 178.209.42.84. Retrying on a new circuit.
+Feb 23 18:42:31.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $70145E15DB875B6AD73691741C25D0E40E277571~ConradsOVHRelay03 at 142.44.163.100. Retrying on a new circuit.
+Feb 23 18:42:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:43:19.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $3A32ADF351EEBD962944B9406AC2E9DE7E72F249~DanWin1210 at 51.15.64.212. Retrying on a new circuit.
+Feb 23 18:43:35.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $5DC945CE8FB2A37E6E2795ECD2709BB21F8714B0~Unnamed at 207.244.70.35. Retrying on a new circuit.
+Feb 23 18:43:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:44:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $F22B4901A2759485285D829941A1E307A5605317~debase at 185.165.169.55. Retrying on a new circuit.
+Feb 23 18:44:32.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $EDBFAEFEA97BA6245B12A4C19522621DB438D588~Parckwart005 at 173.249.21.80. Retrying on a new circuit.
+Feb 23 18:44:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:45:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:46:15.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $67086EFCE53F0CB724B78C3254642EF3EA10D0D7~DanWin1210 at 163.172.171.163. Retrying on a new circuit.
+Feb 23 18:46:31.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $A10C4F666D27364036B562823E5830BC448E046A~DFRI1 at 171.25.193.77. Retrying on a new circuit.
+Feb 23 18:46:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:47:15.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $3E50CBCA98A20F637BC4551FD4F132D062DB9A51~RSF12thMarch at 192.36.27.7. Retrying on a new circuit.
+Feb 23 18:47:30.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $1D3174338A1131A53E098443E76E1103CDED00DC~criticalmass at 192.36.27.4. Retrying on a new circuit.
+Feb 23 18:47:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:48:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:49:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $C793AB88565DDD3C9E4C6F15CCB9D8C7EF964CE9~ori at 85.248.227.163. Retrying on a new circuit.
+Feb 23 18:49:33.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $518FF8708698E1DA09C823C36D35DF89A2CAD956~BrassHornExit02 at 185.104.120.2. Retrying on a new circuit.
+Feb 23 18:49:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:50:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:51:19.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $B0279A521375F3CB2AE210BDBFC645FDD2E1973A~chulak at 176.126.252.11. Retrying on a new circuit.
+Feb 23 18:51:34.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $4B170476D09459328438F3E68ED19516C9F75A80~birnenpfeffimitzimt at 212.21.66.6. Retrying on a new circuit.
+Feb 23 18:51:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:52:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:53:15.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $615088746CB7E57F6BFDD5A842E17B35C9458EC9~tor003janxbde at 94.130.182.104. Retrying on a new circuit.
+Feb 23 18:53:33.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $FDAED15C98CFE7A416E5676F614254F78406105C~dorrisdeebrown at 192.36.27.4. Retrying on a new circuit.
+Feb 23 18:53:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:54:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:55:18.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $317FA39B1255C8AFA0AFA45D2113E1C750B32925~ConradsOVHRelay02 at 144.217.164.185. Retrying on a new circuit.
+Feb 23 18:55:34.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $F92B3CB9BBE0CB22409843FB1AE4DBCD5EFAC835~BrassHornExit03 at 185.104.120.4. Retrying on a new circuit.
+Feb 23 18:55:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:56:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:57:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $0CDA30CDDB526B753E4BA70938703BEF6CB4B8E1~matress at 94.16.123.176. Retrying on a new circuit.
+Feb 23 18:57:32.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $D11D11877769B9E617537B4B46BFB92B443DE33D~zwiebeltoralf2 at 5.9.158.75. Retrying on a new circuit.
+Feb 23 18:57:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:58:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 18:59:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $B0279A521375F3CB2AE210BDBFC645FDD2E1973A~chulak at 176.126.252.11. Retrying on a new circuit.
+Feb 23 18:59:31.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $3E50CBCA98A20F637BC4551FD4F132D062DB9A51~RSF12thMarch at 192.36.27.7. Retrying on a new circuit.
+Feb 23 18:59:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:00:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:01:20.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $ACDD9E85A05B127BA010466C13C8C47212E8A38F~kramse at 185.129.62.62. Retrying on a new circuit.
+Feb 23 19:01:36.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $B47B71552BFC53C13A071D4F42EF9CB88535B2B3~imlovingit at 62.210.13.58. Retrying on a new circuit.
+Feb 23 19:01:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:02:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:03:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $B0279A521375F3CB2AE210BDBFC645FDD2E1973A~chulak at 176.126.252.11. Retrying on a new circuit.
+Feb 23 19:03:31.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $BC630CBBB518BE7E9F4E09712AB0269E9DC7D626~IPredator at 197.231.221.211. Retrying on a new circuit.
+Feb 23 19:03:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:04:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:05:18.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $B0279A521375F3CB2AE210BDBFC645FDD2E1973A~chulak at 176.126.252.11. Retrying on a new circuit.
+Feb 23 19:05:34.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $A03F77FC7BC549CF2A2909D5AB5EAB03F81B3100~14OfJuly at 51.15.76.142. Retrying on a new circuit.
+Feb 23 19:05:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:06:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:07:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:08:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:09:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:10:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:11:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:12:19.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $BC630CBBB518BE7E9F4E09712AB0269E9DC7D626~IPredator at 197.231.221.211. Retrying on a new circuit.
+Feb 23 19:12:35.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $C0192FF43E777250084175F4E59AC1BA2290CE38~manipogo at 192.160.102.169. Retrying on a new circuit.
+Feb 23 19:12:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:13:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:14:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:15:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $FDAED15C98CFE7A416E5676F614254F78406105C~dorrisdeebrown at 192.36.27.4. Retrying on a new circuit.
+Feb 23 19:15:33.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $615088746CB7E57F6BFDD5A842E17B35C9458EC9~tor003janxbde at 94.130.182.104. Retrying on a new circuit.
+Feb 23 19:15:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:16:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $9AA3FF35E7A549D2337E962333D366E102FE4D50~DigiGesTor3e1 at 178.209.42.84. Retrying on a new circuit.
+Feb 23 19:16:31.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $F8BEB0F7AACC4F3EA6FF2C1FC19A9BD753887355~Artikel10 at 46.165.254.166. Retrying on a new circuit.
+Feb 23 19:16:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:17:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $615088746CB7E57F6BFDD5A842E17B35C9458EC9~tor003janxbde at 94.130.182.104. Retrying on a new circuit.
+Feb 23 19:17:33.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $50945E4666A3899034C1686C7A4E255B1F972C64~May68 at 51.15.81.183. Retrying on a new circuit.
+Feb 23 19:17:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:18:21.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $1D3174338A1131A53E098443E76E1103CDED00DC~criticalmass at 192.36.27.4. Retrying on a new circuit.
+Feb 23 19:18:38.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $8ED84B53BD9556CCBB036073A1AD508EC27CBE52~ryugyong at 23.129.64.103. Retrying on a new circuit.
+Feb 23 19:18:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:19:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $74A19D86DDF63F1133B414B81F36E1F44640811F~Unnamed at 62.210.105.116. Retrying on a new circuit.
+Feb 23 19:19:32.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $8E07855414372D6B04EB1ABABA2C2500587E0931~fallbacksen at 94.130.183.184. Retrying on a new circuit.
+Feb 23 19:19:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:20:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $C2CF499F8FC8D69443854E75B0EFAFA05923EDA1~LibreZone at 154.16.149.74. Retrying on a new circuit.
+Feb 23 19:20:34.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $F92B3CB9BBE0CB22409843FB1AE4DBCD5EFAC835~BrassHornExit03 at 185.104.120.4. Retrying on a new circuit.
+Feb 23 19:20:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:21:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $C2CF499F8FC8D69443854E75B0EFAFA05923EDA1~LibreZone at 154.16.149.74. Retrying on a new circuit.
+Feb 23 19:21:37.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $8E07855414372D6B04EB1ABABA2C2500587E0931~fallbacksen at 94.130.183.184. Retrying on a new circuit.
+Feb 23 19:21:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:22:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:23:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:24:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:25:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:26:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $70145E15DB875B6AD73691741C25D0E40E277571~ConradsOVHRelay03 at 142.44.163.100. Retrying on a new circuit.
+Feb 23 19:26:31.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $BC630CBBB518BE7E9F4E09712AB0269E9DC7D626~IPredator at 197.231.221.211. Retrying on a new circuit.
+Feb 23 19:26:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:27:19.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $BC630CBBB518BE7E9F4E09712AB0269E9DC7D626~IPredator at 197.231.221.211. Retrying on a new circuit.
+Feb 23 19:27:35.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $2EB20285FE55927B7AECC47BB94F22534FBC3941~yawnbox at 23.129.64.101. Retrying on a new circuit.
+Feb 23 19:27:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:28:21.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $BC630CBBB518BE7E9F4E09712AB0269E9DC7D626~IPredator at 197.231.221.211. Retrying on a new circuit.
+Feb 23 19:28:38.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $F92B3CB9BBE0CB22409843FB1AE4DBCD5EFAC835~BrassHornExit03 at 185.104.120.4. Retrying on a new circuit.
+Feb 23 19:28:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:29:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $A8553B11E6282F2D22F6B054743ADBCDE604806B~layer1700 at 51.15.81.222. Retrying on a new circuit.
+Feb 23 19:29:37.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $58B44B5591A96EC08114B041CC6B1BB1521DF2BE~UnvisitedNativity at 199.195.250.77. Retrying on a new circuit.
+Feb 23 19:29:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:30:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:31:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:32:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $B47B71552BFC53C13A071D4F42EF9CB88535B2B3~imlovingit at 62.210.13.58. Retrying on a new circuit.
+Feb 23 19:32:34.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $45D6A70CAEC4A2C2FCE46A127E461FF852A41280~MCL1 at 37.187.180.18. Retrying on a new circuit.
+Feb 23 19:32:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:33:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:34:26.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $615088746CB7E57F6BFDD5A842E17B35C9458EC9~tor003janxbde at 94.130.182.104. Retrying on a new circuit.
+Feb 23 19:34:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:35:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:36:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:37:19.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $F8BEB0F7AACC4F3EA6FF2C1FC19A9BD753887355~Artikel10 at 46.165.254.166. Retrying on a new circuit.
+Feb 23 19:37:35.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $B21211A1A2C68F2D9E57E3C7AEAF4F04AFC10E7F~digineo3 at 185.117.215.9. Retrying on a new circuit.
+Feb 23 19:37:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:38:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:39:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $74A19D86DDF63F1133B414B81F36E1F44640811F~Unnamed at 62.210.105.116. Retrying on a new circuit.
+Feb 23 19:39:31.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $6FB41ED1D68FCC399DCE81600CE30360DCFFE263~Unnamed at 62.210.37.82. Retrying on a new circuit.
+Feb 23 19:39:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:40:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:41:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $2EB20285FE55927B7AECC47BB94F22534FBC3941~yawnbox at 23.129.64.101. Retrying on a new circuit.
+Feb 23 19:41:32.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $447FEFD2DD7D0C2BCA8B6EC6D33DBCC1DD96818A~nollaig at 172.104.148.28. Retrying on a new circuit.
+Feb 23 19:41:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:42:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $616081EC829593AF4232550DE6FFAA1D75B37A90~AquaRayTerminus at 95.128.43.164. Retrying on a new circuit.
+Feb 23 19:42:32.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $311A4533F7A2415F42346A6C8FA77E6FD279594C~DigiGesTor3e2 at 178.209.42.84. Retrying on a new circuit.
+Feb 23 19:42:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:43:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $45D6A70CAEC4A2C2FCE46A127E461FF852A41280~MCL1 at 37.187.180.18. Retrying on a new circuit.
+Feb 23 19:43:32.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $B21211A1A2C68F2D9E57E3C7AEAF4F04AFC10E7F~digineo3 at 185.117.215.9. Retrying on a new circuit.
+Feb 23 19:43:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:44:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:45:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:46:21.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $BC630CBBB518BE7E9F4E09712AB0269E9DC7D626~IPredator at 197.231.221.211. Retrying on a new circuit.
+Feb 23 19:46:37.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $379FB450010D17078B3766C2273303C358C3A442~aurora at 176.126.252.12. Retrying on a new circuit.
+Feb 23 19:46:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:47:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:48:19.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $317FA39B1255C8AFA0AFA45D2113E1C750B32925~ConradsOVHRelay02 at 144.217.164.185. Retrying on a new circuit.
+Feb 23 19:48:34.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $ACDD9E85A05B127BA010466C13C8C47212E8A38F~kramse at 185.129.62.62. Retrying on a new circuit.
+Feb 23 19:48:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:49:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $C793AB88565DDD3C9E4C6F15CCB9D8C7EF964CE9~ori at 85.248.227.163. Retrying on a new circuit.
+Feb 23 19:49:32.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $C2CF499F8FC8D69443854E75B0EFAFA05923EDA1~LibreZone at 154.16.149.74. Retrying on a new circuit.
+Feb 23 19:49:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:50:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:51:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:52:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $5989521A85C94EE101E88B8DB2E68321673F9405~modio at 193.15.16.4. Retrying on a new circuit.
+Feb 23 19:52:33.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $BC630CBBB518BE7E9F4E09712AB0269E9DC7D626~IPredator at 197.231.221.211. Retrying on a new circuit.
+Feb 23 19:52:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:53:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:54:18.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $3243B8617D4E97AFA1BAE5D83799DF4FBFF67C4A~BlingDawdler at 209.141.43.42. Retrying on a new circuit.
+Feb 23 19:54:34.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $A2534EF23390CAE079B1586F0FDF9CE11F556062~iVPN at 192.36.27.6. Retrying on a new circuit.
+Feb 23 19:54:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:55:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $1AF72E8906E6C49481A791A6F8F84F8DFEBBB2BA~zwiebeltoralf at 5.9.158.75. Retrying on a new circuit.
+Feb 23 19:55:32.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $3A32ADF351EEBD962944B9406AC2E9DE7E72F249~DanWin1210 at 51.15.64.212. Retrying on a new circuit.
+Feb 23 19:55:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:56:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $578E007E5E4535FBFEF7758D8587B07B4C8C5D06~marylou1 at 89.234.157.254. Retrying on a new circuit.
+Feb 23 19:56:32.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $3A32ADF351EEBD962944B9406AC2E9DE7E72F249~DanWin1210 at 51.15.64.212. Retrying on a new circuit.
+Feb 23 19:56:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:57:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:58:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 19:59:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:00:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $317FA39B1255C8AFA0AFA45D2113E1C750B32925~ConradsOVHRelay02 at 144.217.164.185. Retrying on a new circuit.
+Feb 23 20:00:32.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $3E50CBCA98A20F637BC4551FD4F132D062DB9A51~RSF12thMarch at 192.36.27.7. Retrying on a new circuit.
+Feb 23 20:00:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:01:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $70875BB9B4CDAB5C48333E0D683C6ACA1F936B4D~Zomp at 82.148.223.103. Retrying on a new circuit.
+Feb 23 20:01:31.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $74A19D86DDF63F1133B414B81F36E1F44640811F~Unnamed at 62.210.105.116. Retrying on a new circuit.
+Feb 23 20:01:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:02:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $450E3F6669AC71188C7233B6509FFA74D188C029~torexithost at 51.15.205.192. Retrying on a new circuit.
+Feb 23 20:02:35.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $5DC945CE8FB2A37E6E2795ECD2709BB21F8714B0~Unnamed at 207.244.70.35. Retrying on a new circuit.
+Feb 23 20:02:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:03:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:04:19.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $3E50CBCA98A20F637BC4551FD4F132D062DB9A51~RSF12thMarch at 192.36.27.7. Retrying on a new circuit.
+Feb 23 20:04:34.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $1AF72E8906E6C49481A791A6F8F84F8DFEBBB2BA~zwiebeltoralf at 5.9.158.75. Retrying on a new circuit.
+Feb 23 20:04:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:05:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:06:20.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $5974B3F4C66D83BBC9622E0F0F023FE48428DB9B~amazonas at 77.247.181.163. Retrying on a new circuit.
+Feb 23 20:06:35.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $07C05ED4825F51D5BE4CDBBAA80BFA484132A2F5~cussedotorg at 66.70.217.179. Retrying on a new circuit.
+Feb 23 20:06:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:07:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $B21211A1A2C68F2D9E57E3C7AEAF4F04AFC10E7F~digineo3 at 185.117.215.9. Retrying on a new circuit.
+Feb 23 20:07:31.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $1AF72E8906E6C49481A791A6F8F84F8DFEBBB2BA~zwiebeltoralf at 5.9.158.75. Retrying on a new circuit.
+Feb 23 20:07:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:08:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:09:18.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $A2DB293FFC5A76A718863BF1AEDBC8DFB1CB1097~RSFPressFreedom at 192.36.27.6. Retrying on a new circuit.
+Feb 23 20:09:34.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $DAB96CEA61CC039A803217035293FAB32645FDDA~kree at 85.248.227.165. Retrying on a new circuit.
+Feb 23 20:09:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:10:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:11:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:12:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $9BA84E8C90083676F86C7427C8D105925F13716C~ekumen at 95.142.161.63. Retrying on a new circuit.
+Feb 23 20:12:32.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $D122094E396DF8BA560843E7B983B0EA649B7DF9~gjtorrelay at 51.15.72.211. Retrying on a new circuit.
+Feb 23 20:12:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:13:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $557ACEC850F54EEE65839F83CACE2B0825BE811E~ogopogo at 192.160.102.170. Retrying on a new circuit.
+Feb 23 20:13:34.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $C2CF499F8FC8D69443854E75B0EFAFA05923EDA1~LibreZone at 154.16.149.74. Retrying on a new circuit.
+Feb 23 20:13:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:14:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $BC630CBBB518BE7E9F4E09712AB0269E9DC7D626~IPredator at 197.231.221.211. Retrying on a new circuit.
+Feb 23 20:14:33.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $366E36894AF7ED5AEAE3D26FBEBD3FA29AA34FDD~SentriesExit at 46.101.127.145. Retrying on a new circuit.
+Feb 23 20:14:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:15:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:16:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $E9289AF85E5EDEC87FD741AB5E4A62D2AF796F01~PiratenparteiNRW at 5.199.130.188. Retrying on a new circuit.
+Feb 23 20:16:32.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $74A19D86DDF63F1133B414B81F36E1F44640811F~Unnamed at 62.210.105.116. Retrying on a new circuit.
+Feb 23 20:16:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:17:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $07C05ED4825F51D5BE4CDBBAA80BFA484132A2F5~cussedotorg at 66.70.217.179. Retrying on a new circuit.
+Feb 23 20:17:33.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $37A3155867C5B2163BF572C98F8921B884BCA4F4~FreedomWorthNuisanc at 185.87.185.45. Retrying on a new circuit.
+Feb 23 20:17:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:18:40.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:19:21.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $76BD45BAC8CC057D0A6DE927711F3F378555D731~NeelTorExitUSEast at 195.123.233.59. Retrying on a new circuit.
+Feb 23 20:19:37.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $3EBDF84DE3B16F0EBF7D51450F07913A02EFDA6C~BrassHornExit05 at 185.104.120.5. Retrying on a new circuit.
+Feb 23 20:19:41.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:20:41.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:21:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $A8553B11E6282F2D22F6B054743ADBCDE604806B~layer1700 at 51.15.81.222. Retrying on a new circuit.
+Feb 23 20:21:19.000 [warn] Socks version 67 not recognized. (Tor is not an http proxy.)
+Feb 23 20:21:20.000 [warn] Socks version 71 not recognized. (Tor is not an http proxy.)
+Feb 23 20:21:20.000 [warn] Socks version 71 not recognized. (Tor is not an http proxy.)
+Feb 23 20:21:33.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $317FA39B1255C8AFA0AFA45D2113E1C750B32925~ConradsOVHRelay02 at 144.217.164.185. Retrying on a new circuit.
+Feb 23 20:21:41.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:22:41.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:23:41.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:23:47.000 [warn] Socks version 67 not recognized. (Tor is not an http proxy.)
+Feb 23 20:23:48.000 [warn] Socks version 71 not recognized. (Tor is not an http proxy.)
+Feb 23 20:23:48.000 [warn] Socks version 71 not recognized. (Tor is not an http proxy.)
+Feb 23 20:24:41.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:25:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $582D513279441F11B65406CFFEEFBCBF6CC51F46~Parckwart002 at 173.212.233.139. Retrying on a new circuit.
+Feb 23 20:25:31.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $5974B3F4C66D83BBC9622E0F0F023FE48428DB9B~amazonas at 77.247.181.163. Retrying on a new circuit.
+Feb 23 20:25:41.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:26:41.000 [notice] New control connection opened from 127.0.0.1.
+Feb 23 20:27:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $F8BEB0F7AACC4F3EA6FF2C1FC19A9BD753887355~Artikel10 at 46.165.254.166. Retrying on a new circuit.
+Feb 23 20:27:32.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $DAB96CEA61CC039A803217035293FAB32645FDDA~kree at 85.248.227.165. Retrying on a new circuit.
+Feb 23 20:27:41.000 [notice] New control connection opened from 127.0.0.1.
