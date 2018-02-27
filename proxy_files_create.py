@@ -13,7 +13,8 @@ def create():
         added = 0
 
         for line in lines:
-            name = line.replace(":", "-").rstrip("\n")
+            name = "-".join(line.split("\t")[:2])
+            # name = line.replace(":", "-").rstrip("\n")
 
             if name in names:
                 duplicates += 1

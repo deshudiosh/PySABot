@@ -2,6 +2,9 @@ from time import sleep
 
 import datetime
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 import logfile
 import proxy_servers
@@ -35,8 +38,12 @@ def vote():
         reason = "Driver"
         driver = firefox_proxy_driver(proxy)
         driver.set_window_size(900, 1200)
-        driver.implicitly_wait(45)
+        # driver.implicitly_wait(30)
         driver.get("http://sztuka-architektury.pl/")
+
+        reason = "Logo"
+        logo = WebDriverWait(driver, 15).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "site-logo")))
 
         reason = "Popup"
         popup_close = driver.find_element_by_id("newsletter_close")
@@ -69,13 +76,14 @@ def vote():
         driver.quit()
         vote()
 
-    except:
-        print("--> Nie znalazłem {}".format(reason))
+    except Exception as e:
+        print("--> Problem na etapie: {}".format(reason))
+        print(e)
         if driver:
             driver.quit()
         if proxy:
             logfile.make_proxy_log(False, reason=reason, proxy=proxy, start=start)
-        else: # if no proxy files, delay next try
+        else:  # if no proxy files, delay next try
             sleep(10)
         vote()
 

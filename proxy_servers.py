@@ -12,7 +12,12 @@ def getNext():
 
     proxy_file = list(fresh.iterdir())[0]
 
-    shutil.move(str(proxy_file), str(Path(used, proxy_file.name)))
+    # shutil.move(str(proxy_file), str(Path(used, proxy_file.name)))
+
+    os.remove(str(proxy_file))
+
+    with open(str(Path(used, proxy_file.name)), "w+"):
+        pass
 
     name_split = proxy_file.name.split("-")
 
