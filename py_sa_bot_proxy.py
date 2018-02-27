@@ -38,12 +38,12 @@ def vote():
         reason = "Driver"
         driver = firefox_proxy_driver(proxy)
         driver.set_window_size(900, 1200)
-        # driver.implicitly_wait(30)
+        driver.implicitly_wait(30)
         driver.get("http://sztuka-architektury.pl/")
 
-        reason = "Logo"
-        logo = WebDriverWait(driver, 15).until(
-            EC.presence_of_element_located((By.CLASS_NAME, "site-logo")))
+        # reason = "Logo"
+        # logo = WebDriverWait(driver, 15).until(
+        #     EC.presence_of_element_located((By.CLASS_NAME, "site-logo")))
 
         reason = "Popup"
         popup_close = driver.find_element_by_id("newsletter_close")
