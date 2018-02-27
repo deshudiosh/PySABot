@@ -1,3 +1,3 @@
-import logger
+import proxy_servers
 
-logger.make_log_file(False)
+proxy_servers.getNext()

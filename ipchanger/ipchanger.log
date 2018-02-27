@@ -18,3 +18,17 @@ Call stack:
   File "C:\Python34\lib\logging\__init__.py", line 984, in emit
 Message: '************************************************************\nChangelog: v1.2.0\n************************************************************\nAdded:   \n   Progress bar indicator\n   Better anonymity \n   Country selection\n   Autochange after program start\n   TOR DNS server @ 127.0.0.1:53 \n   .onion domains, need TOR DNS or DNS requests via socks5\n   Multiproxy\n************************************************************\nFixed:\n   Socket unexpected timeout\n   TOR switcher crashed after while\n   Access Violation c0000005\n************************************************************\nChanged: \n   User interface\n   Better logging\n   Start TOR timeout to 120 seconds\n   Close old TOR circuits before new IP\n************************************************************\nRemoved: \n   Configure browser button (too much bugy)\n************************************************************\nThanks:\n   new sponsor Altnet s.r.o. ISP provider in Czech republic\n   Skvely.net®, banner will be visible until 01/11/2019\n************************************************************'
 Arguments: ()
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Python34\lib\tkinter\__init__.py", line 1533, in __call__
+  File "D:\Instalacky\scripty\tor-ip-changer2\win\src\1.2.0\start.pyw", line 330, in save
+  File "<string>", line 1, in <module>
+  File "C:\Python34\lib\tkinter\__init__.py", line 2520, in get
+_tkinter.TclError: invalid command name ".50764848.50765072"
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Python34\lib\tkinter\__init__.py", line 1533, in __call__
+  File "D:\Instalacky\scripty\tor-ip-changer2\win\src\1.2.0\start.pyw", line 330, in save
+  File "<string>", line 1, in <module>
+  File "C:\Python34\lib\tkinter\__init__.py", line 2520, in get
+_tkinter.TclError: invalid command name ".50764848.50765072"

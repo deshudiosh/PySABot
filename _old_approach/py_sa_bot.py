@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 
-import logger
+import logfile
 
 
 def firefox_proxy_driver():
@@ -76,11 +76,11 @@ def vote():
         WebDriverWait(driver, 60).until(
             EC.presence_of_element_located((By.XPATH, "//p[contains(text(), 'Dziękujemy za oddanie głosu')]"))
         )
-        logger.make_log_file(True)
+        logfile.make_log_file(True)
         sleep(5)
         driver.quit()
     except:
-        logger.make_log_file(False)
+        logfile.make_log_file(False)
         driver.quit()
 
     # LOOP

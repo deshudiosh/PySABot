@@ -1,4 +1,4 @@
-# Tor state file last generated on 2018-02-26 17:59:09 local time
+# Tor state file last generated on 2018-02-27 12:58:07 local time
 # Other times below are in UTC
 # You *do not* need to edit this file.
 
@@ -22,5 +22,63 @@ Guard in=default rsa_id=72F85F150777665E145963B885FC4F4CA6434B5E nickname=guisse
 Guard in=default rsa_id=D301F2DA0F99415A31A028D483C98A0590E665C1 nickname=caps14 sampled_on=2018-02-15T23:34:36 sampled_by=0.3.1.7 listed=1
 Guard in=default rsa_id=00943662F30ECE7AA2D1262B364FC0431F78F80C nickname=BobDoe sampled_on=2018-02-22T16:17:42 sampled_by=0.3.1.7 listed=1
 Guard in=default rsa_id=0067D6228B30C3D5041390D2248AA58FF5207C64 nickname=glumpatsch sampled_on=2018-02-20T11:58:51 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=12B6C5B34B03988D86A48B88F7922157AAD8FFD7 nickname=yesno sampled_on=2018-02-22T10:18:54 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=CBCED581D684EE7F4514063FBFFC2ED56DFB248E nickname=cmdrdata sampled_on=2018-02-19T17:38:44 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=3FE1F6A1E6C08B0B5F41FB0A97CA97480E5A1F13 nickname=KingKong sampled_on=2018-02-20T03:30:18 sampled_by=0.3.1.7 listed=1 confirmed_on=2018-02-19T07:07:08 confirmed_idx=1 pb_use_attempts=99.562500 pb_use_successes=99.500000 pb_circ_attempts=277.000000 pb_circ_successes=261.500000 pb_successful_circuits_closed=261.000000 pb_unusable_circuits=0.500000
+Guard in=default rsa_id=63B32F7E5389E8DBC5E1BCEFE48312DA7CCEF5D6 nickname=torte sampled_on=2018-02-19T09:50:58 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=48CC759F0AB2981F98B793A5C2B68BE0AF464967 nickname=Hennep sampled_on=2018-02-24T16:14:05 sampled_by=0.3.1.7 listed=1 confirmed_on=2018-02-17T08:49:50 confirmed_idx=0 pb_use_attempts=100.131889 pb_use_successes=99.623923 pb_circ_attempts=220.859298 pb_circ_successes=210.049504 pb_successful_circuits_closed=209.547175 pb_unusable_circuits=0.502328 pb_timeouts=0.500000
+Guard in=default rsa_id=9AFCA13F09D75D4B529BA70B02498551352DD2EF nickname=VeespRU1 sampled_on=2018-02-16T06:43:20 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=1A75C7D808510425EC71D17277A819058729F22E nickname=antibrutality1 sampled_on=2018-02-16T21:27:49 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=9F29D0DD4AEB62E742BDAEEF2DFD3BDD76953403 nickname=ViaSEfWgRFE sampled_on=2018-02-25T17:53:25 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=1C90D3AEADFF3BCD079810632C8B85637924A58E nickname=Multivac sampled_on=2018-02-22T04:25:46 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=5B6E6507FFC91ED886CDD2DC6145E777381D2A09 nickname=Dutch02 sampled_on=2018-02-23T04:35:58 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=313EF292797B6892E57F9D541145588081FFA013 nickname=monti sampled_on=2018-02-18T05:00:54 sampled_by=0.3.1.7 unlisted_since=2018-02-27T05:43:30 listed=0
+Guard in=default rsa_id=18B160CD5E22BFC345AEE7BA84B7EA45BF457FCA nickname=3cce3a91f6a625 sampled_on=2018-02-24T15:08:37 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=CD54F0946A30E366A8392D04D7ED684A121069FC nickname=deathsfollyash sampled_on=2018-02-15T17:02:30 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=72B19BAABE6846DF96EA2A50C28F4DC15A920041 nickname=DanWin1210 sampled_on=2018-02-23T21:06:31 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=CFBBA0D858F02E40B1432A65F6D13C9BDFE7A46B nickname=0x3d001 sampled_on=2018-02-25T06:14:59 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=1841CB960128806151B61FC6D87AFBE9A98B99D7 nickname=SchulteTorRelay001 sampled_on=2018-02-15T21:55:35 sampled_by=0.3.1.7 listed=1 confirmed_on=2018-02-21T17:52:56 confirmed_idx=2
+Guard in=default rsa_id=4773A7A39E48AFB8C748CF6E0273D24C8154C0D8 nickname=Europa sampled_on=2018-02-16T01:57:44 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=8C00FA7369A7A308F6A137600F0FA07990D9D451 nickname=GrmmlLitavis sampled_on=2018-02-23T02:25:52 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=76E3F389A73454DDA4A1CEDB87383A91505E8A06 nickname=sweettearummy sampled_on=2018-02-23T11:04:55 sampled_by=0.3.1.7 listed=1 confirmed_on=2018-02-18T05:06:10 confirmed_idx=3
+Guard in=default rsa_id=9A9FE7C84BD21590CA4A0FC99DAC803C1F72E55D nickname=jceaovh2 sampled_on=2018-02-23T16:41:48 sampled_by=0.3.1.7 listed=1
 TorVersion Tor 0.3.1.7 (git-6babd3d9ba9318b3)
-LastWritten 2018-02-26 16:59:09
+LastWritten 2018-02-27 11:58:07
+TotalBuildTimes 105
+CircuitBuildTimeBin 225 4
+CircuitBuildTimeBin 275 8
+CircuitBuildTimeBin 325 6
+CircuitBuildTimeBin 375 10
+CircuitBuildTimeBin 425 14
+CircuitBuildTimeBin 475 6
+CircuitBuildTimeBin 525 10
+CircuitBuildTimeBin 625 5
+CircuitBuildTimeBin 675 5
+CircuitBuildTimeBin 725 3
+CircuitBuildTimeBin 775 1
+CircuitBuildTimeBin 825 2
+CircuitBuildTimeBin 875 2
+CircuitBuildTimeBin 925 1
+CircuitBuildTimeBin 1075 1
+CircuitBuildTimeBin 1375 1
+CircuitBuildTimeBin 1625 2
+CircuitBuildTimeBin 1675 1
+CircuitBuildTimeBin 1725 1
+CircuitBuildTimeBin 1775 1
+CircuitBuildTimeBin 1875 1
+CircuitBuildTimeBin 1975 2
+CircuitBuildTimeBin 2375 2
+CircuitBuildTimeBin 2425 1
+CircuitBuildTimeBin 2775 1
+CircuitBuildTimeBin 2825 2
+CircuitBuildTimeBin 2925 1
+CircuitBuildTimeBin 3025 2
+CircuitBuildTimeBin 3075 1
+CircuitBuildTimeBin 3325 1
+CircuitBuildTimeBin 4075 1
+CircuitBuildTimeBin 4425 1
+CircuitBuildTimeBin 6775 1
+CircuitBuildTimeBin 8875 1
+CircuitBuildTimeBin 11025 1
+CircuitBuildTimeBin 12725 1
+CircuitBuildTimeBin 30225 1
